@@ -1,4 +1,4 @@
-# ods is all u need
+# [ods](ods.ai) is all u need
 
 [:fire: tracks](https://ods.ai/tracks)
 
